@@ -1,2 +1,1 @@
-
-This is a project work on designing a isp and a smal area connection. Configuring the switches, routrs, pc, servers, with DHCP mood and many more
+This is a project work on designing an isp and a small area connection. Configuring the switches, routers, pc, servers, with DHCP mood and many more 
